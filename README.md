@@ -2,6 +2,8 @@
 
 Repository for "Smart Grids for District Heating and Cooling" course in UPC-ETSEIB.
 
+cyprien
+
 Authors:
 Vicente Medina
 Alex
